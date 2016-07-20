@@ -2,9 +2,9 @@
 
 This is a public repo for managing issues with the LP-ASF learning path and lab exercises.
 
-## [File an issue](https://github.com/appcelerator-training/LP-ASF-issues/issues/new)
+### [Click Here](https://github.com/appcelerator-training/LP-ASF-issues/issues/new) to file an issue
 
-Or [view issues](https://github.com/appcelerator-training/LP-ASF-issues/issues/new)
+### [view issues](https://github.com/appcelerator-training/LP-ASF-issues/issues/new)
 
 ## Instructions
 
