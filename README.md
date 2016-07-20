@@ -2,10 +2,6 @@
 
 This is a public repo for managing issues with the LP-ASF learning path and lab exercises.
 
-### [Click Here](https://github.com/appcelerator-training/LP-ASF-issues/issues/new) to file an issue
-
-### [view issues](https://github.com/appcelerator-training/LP-ASF-issues/issues/new)
-
 ## Instructions
 
 When filing a new issue, please consider the following:
@@ -19,6 +15,8 @@ When filing a new issue, please consider the following:
     * Titanium SDK version
     * Node.js version
     * Appcelerator Studio version
+
+### [Click Here](https://github.com/appcelerator-training/LP-ASF-issues/issues/new) to file an issue
 
 ## Modules
 
