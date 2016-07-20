@@ -1,6 +1,6 @@
 <img src='https://appc-img.imgix.net/appc.LP-ASF.png' style="float:left;margin:15px 20px 0px 5px;border:none;" width="150" height="150" align="left">
 
-# LP-ASF
+# SDK Fundamentals
 
 This is a public repo for managing content updates with the LP-ASF learning path, lab exercises and issue tracking.
 
