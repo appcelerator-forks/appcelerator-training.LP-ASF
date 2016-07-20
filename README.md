@@ -1,8 +1,11 @@
-# LP-ASF Issues
+<img src='https://appc-img.imgix.net/appc.LP-ASF.png' style="float:left;margin:15px 20px 0px 5px;border:none;" width="150" height="150" align="left">
 
-This is a public repo for managing content updates or issues with the LP-ASF learning path and lab exercises.
+# LP-ASF
 
-## Instructions
+This is a public repo for managing content updates with the LP-ASF learning path, lab exercises and issue tracking.
+
+
+## Filing Issues
 
 When filing a new issue, please consider the following:
 
