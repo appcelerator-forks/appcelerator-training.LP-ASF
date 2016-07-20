@@ -4,6 +4,7 @@
 
 This is a public repo for managing content updates with the LP-ASF learning path, lab exercises and issue tracking.
 
+---
 
 ## Filing Issues
 
