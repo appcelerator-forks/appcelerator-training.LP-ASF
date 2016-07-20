@@ -16,9 +16,9 @@ When filing a new issue, please consider the following:
     * Node.js version
     * Appcelerator Studio version
 
-### [Click Here](https://github.com/appcelerator-training/LP-ASF-issues/issues/new) to file an issue
+## [Click Here](https://github.com/appcelerator-training/LP-ASF-issues/issues/new) to file an issue
 
-## Modules
+### Modules
 
 The following modules are included in this:
 
