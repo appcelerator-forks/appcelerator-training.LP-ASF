@@ -1,6 +1,6 @@
 # LP-ASF Issues
 
-This is a public repo for managing issues with the LP-ASF learning path and lab exercises.
+This is a public repo for managing content updates or issues with the LP-ASF learning path and lab exercises.
 
 ## Instructions
 
